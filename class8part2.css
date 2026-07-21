@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxes{
+    display: flex;
+}
+
+.box1{
+    color: white;
+    background-color: rgb(88, 88, 238);
+    padding: 20px;
+    height: 100px;
+    margin: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+}
