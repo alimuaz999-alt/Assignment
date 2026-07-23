@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(Websitebackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h6{
+    font-size: 75px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    
+}
+.boxes{
+    display: flex; 
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1{
+    width: 250px;
+    height: 150px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 i{
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: 100;
+}
+
